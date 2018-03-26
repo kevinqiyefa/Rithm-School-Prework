@@ -1,3 +1,3 @@
 # Rithm-School-Prework
 
-Javascript practices
+Javascript problem solving practices
